@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/glitchy-luiz/2emib-ac1)
 # Cursonex
 Projeto de um sistema full stack
-## Alunos
+## Grupo
 - `Luiz Fernando de Aragão Souza`
 - Gustavo Pasquini Lucas
 - Lorenzo Adinolfi Acquesta
